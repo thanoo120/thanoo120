@@ -3,7 +3,7 @@
 <h3 align="center">I am a fullstack developer and ML enthusiast</h3>
 
 <p align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=thanoo120&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
+   <img src="https://komarev.com/ghpvc/?username=thanoo120&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 <p align="center">
