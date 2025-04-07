@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/spring-logo.png"/>
+<!--   <img src="https://img.icons8.com/ios-filled/50/ffffff/spring-logo.png"/> -->
 </p>
 
 ---
