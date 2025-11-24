@@ -34,24 +34,39 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/swagger.svg"       alt="Swagger / OpenAPI"      title="Swagger / OpenAPI" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/docker.svg"        alt="Docker"                 title="Docker" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/flyway.svg"        alt="Flyway"                 title="Flyway" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/springboot.svg"   alt="Spring Boot"            title="Spring Boot" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nodedotjs.svg"    alt="Node.js"                title="Node.js" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg"      alt="Express.js"             title="Express.js" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/c.svg"            alt="C"                      title="C (programming language)" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/java.svg"         alt="Java"                   title="Java" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg"   alt="TypeScript"             title="TypeScript" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg"  alt="Tailwind CSS"           title="Tailwind CSS" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+<!-- Frontend -->
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React Native"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
+
+<!-- Backend -->
+<img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+<img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+
+<!-- DevOps / Tools -->
+<img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+<img src="https://img.icons8.com/color/48/api.png" alt="Swagger / OpenAPI"/>
+<img src="https://img.icons8.com/color/48/flyway.png" alt="Flyway"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+
+<!-- Databases -->
+<img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+
+<!-- Mobile -->
+<img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
+
+<!-- Extra -->
+<img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+
+
 </p>
 
 ---
