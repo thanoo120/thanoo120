@@ -39,7 +39,16 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/swagger.svg"       alt="Swagger / OpenAPI"      title="Swagger / OpenAPI" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/docker.svg"        alt="Docker"                 title="Docker" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/flyway.svg"        alt="Flyway"                 title="Flyway" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/springboot.svg"   alt="Spring Boot"            title="Spring Boot" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nodedotjs.svg"    alt="Node.js"                title="Node.js" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg"      alt="Express.js"             title="Express.js" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/c.svg"            alt="C"                      title="C (programming language)" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/java.svg"         alt="Java"                   title="Java" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg"   alt="TypeScript"             title="TypeScript" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg"  alt="Tailwind CSS"           title="Tailwind CSS" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
